@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="5821" started-at="2019-04-03T14:40:29Z" finished-at="2019-04-03T14:40:35Z">
+  <suite name="Suite" duration-ms="8136" started-at="2019-04-04T05:44:56Z" finished-at="2019-04-04T05:45:04Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="5821" started-at="2019-04-03T14:40:29Z" finished-at="2019-04-03T14:40:35Z">
-      <class name="Git.Jenkins.Class_A">
-        <test-method status="PASS" signature="launchfb()[pri:0, instance:Git.Jenkins.Class_A@3ffc5af1]" name="launchfb" duration-ms="5803" started-at="2019-04-03T14:40:29Z" finished-at="2019-04-03T14:40:35Z">
+    <test name="Test" duration-ms="8136" started-at="2019-04-04T05:44:56Z" finished-at="2019-04-04T05:45:04Z">
+      <class name="Com.Git.Jenkins.Class_A">
+        <test-method status="PASS" signature="launchfb()[pri:0, instance:Com.Git.Jenkins.Class_A@3ffc5af1]" name="launchfb" duration-ms="8116" started-at="2019-04-04T05:44:56Z" finished-at="2019-04-04T05:45:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchfb -->
-      </class> <!-- Git.Jenkins.Class_A -->
+      </class> <!-- Com.Git.Jenkins.Class_A -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
