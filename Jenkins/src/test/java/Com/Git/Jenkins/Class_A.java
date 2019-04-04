@@ -1,4 +1,4 @@
-package Git.Jenkins;
+package Com.Git.Jenkins;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
