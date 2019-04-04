@@ -18,6 +18,7 @@ public class Class_A {
 		WebDriverManager.chromedriver().setup();
 		WebDriver uidiver = new ChromeDriver();
 		uidiver.get("https://www.facebook.com");
+		uidiver.close();
 	}
 	
 
